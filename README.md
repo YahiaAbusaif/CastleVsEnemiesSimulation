@@ -1,2 +1,6 @@
-# CastleVsEnemiesSimulation
-A simulation game between Castle towers and enemies 
+# Castle Vs Enemies Simulation
+### My first project in college using Procedural Programming Paradigm with C++
+###### It's a simulation game between Castle towers and enemies To know how the program works you can read the Requirements file
+###### You can run this game by opening Project.sln in Visual Studio
+###### There are available test cases that used while testing the project in TestCases folder
+###### To use these test cases you can move any file from Input directory to the Project_Data directory then type the name of that file while executing the program and the output generated in Project_Data directory should match with the one corresponding to that input file in Output directory e.g. input 11.txt & output 11.txt
