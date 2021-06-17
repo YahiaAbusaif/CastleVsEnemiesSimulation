@@ -1,0 +1,10 @@
+Kill_Time_Step  Sequence_number  Fight_Delay  Kill_Delay  Fight_Time
+T1_Total_Damage  T2_Total_Damage  T3_Total_Damage  T4_Total_Damage
+503.568   512.513   512.126   501.099   
+R1_Distance  R2_Distance  R3_Distance  R4_Distance
+2   2   2   2   
+Game is LOSS
+Killed Enemies = 0
+Alive Enemies = 15
+Average Fight Delay = 0
+Average Kill Delay = 0

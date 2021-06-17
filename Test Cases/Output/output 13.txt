@@ -1,0 +1,24 @@
+Kill_Time_Step  Sequence_number  Fight_Delay  Kill_Delay  Fight_Time
+12  2   0   10   10   
+15  1   0   13   13   
+16  0   0   15   15   
+19  3   0   16   16   
+31  8   0   23   23   
+40  4   0   37   37   
+41  10   0   31   31   
+45  7   0   37   37   
+45  9   0   37   37   
+46  14   0   31   31   
+47  11   0   37   37   
+47  13   0   35   35   
+47  12   0   37   37   
+56  6   0   51   51   
+279  5   0   274   274   
+T1_Total_Damage  T2_Total_Damage  T3_Total_Damage  T4_Total_Damage
+14.0751   10.4383   307.603   301.999   
+R1_Distance  R2_Distance  R3_Distance  R4_Distance
+2   2   2   2   
+Game is WIN
+Total Enemies = 15
+Average Fight Delay = 0
+Average Kill Delay = 45.6
